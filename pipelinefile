@@ -1,0 +1,12 @@
+node{
+
+ stage('clone java  project') {
+    git branch: 'main', url: 'https://github.com/Durga4pdp/JavaLogin.git'
+}
+
+stage('execute maven target') {
+    sh 'mvn  install'
+}
+    
+    
+}
