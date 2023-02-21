@@ -2,9 +2,9 @@
          xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <groupId>com.maha</groupId>
-    <artifactId>mahaLogin</artifactId>
+    <artifactId>PDPLogin</artifactId>
     <packaging>war</packaging>
-    <version>10.0</version>
+    <version>10.1</version>
     <name>Account Registration Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
@@ -12,6 +12,7 @@
         <spring-security.version>4.0.2.RELEASE</spring-security.version>
         <spring-data-jpa.version>1.8.2.RELEASE</spring-data-jpa.version>
         <hibernate.version>4.3.11.Final</hibernate.version>
+
         <hibernate-validator.version>5.2.1.Final</hibernate-validator.version>
         <mysql-connector.version>5.1.36</mysql-connector.version>
         <commons-dbcp.version>1.4</commons-dbcp.version>
