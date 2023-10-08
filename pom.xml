@@ -4,7 +4,7 @@
     <groupId>com.maha</groupId>
     <artifactId>PDPLogin</artifactId>
     <packaging>war</packaging>
-    <version>10.1</version>
+    <version>10.2</version>
     <name>Account Registration Webapp</name>
     <url>http://maven.apache.org</url>
     <properties>
